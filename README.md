@@ -8,7 +8,7 @@ I'm passionate about coding, solving problems, and exploring new technologies. A
 - 🌱 **I’m currently learning:** Python, Web Development and planning to explore Java.
 - 👯 **I’m looking to collaborate on:** Open-source projects for beginners.
 - 💬 **Ask me about:** Python, DSA.
-- 📫 **How to reach me:** 1500x16xm@gmail.com
+- 📫 **How to reach me:** 1980vidyam@gmail.com
 
 ---
 
